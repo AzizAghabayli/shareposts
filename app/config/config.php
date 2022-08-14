@@ -11,7 +11,7 @@ define('APPROOT', dirname(dirname(__FILE__)));
 define('URLROOT', 'http://localhost:81/shareposts');
 // Site name
 define('SITENAME', 'SharePosts');
-
-
+// App Version
+define('APPVERSION', '1.0.0');
 
 ?>
